@@ -7,7 +7,7 @@
 export const profile = {
   name: '凌先冲',
   enName: 'LING XIANCHONG',
-  title: '统计 · 数据分析 / 游戏策划',
+  title: '统计 · 数据分析 / 金融科技',
   tagline: '用数据理解世界，用模型驱动决策',
   avatar: '/images/avatar.jpg?v=2',
   gender: '男',
@@ -37,9 +37,9 @@ export const jobDirections = [
   },
   {
     key: 'business-analysis',
-    title: '商业分析',
-    en: 'Business Analytics',
-    desc: '从市场与经营数据出发，构建可落地的商业解决方案。',
+    title: '金融科技',
+    en: 'FinTech',
+    desc: '聚焦金融与科技结合场景，用数据驱动风控、产品与业务增长。',
     icon: 'business-analysis'
   },
   {
