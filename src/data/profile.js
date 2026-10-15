@@ -93,7 +93,7 @@ export const education = [
     major: '应用统计',
     period: '2025.09 – 2027.06',
     gpa: '3.55 / 4.00',
-    rank: '前20%',
+    rank: '前30%',
     honor: '“华为杯”数模竞赛二等奖',
     research: '量化金融，机器学习，自然语言处理',
     courses: [
